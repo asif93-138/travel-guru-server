@@ -2,22 +2,20 @@
     {
         "id" : 1,
         "name" : "Barisal River Port",
+        "bgURL" : "https://i.ibb.co/7rBpQkV/Sajek.png",
         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7361.50912393451!2d90.36974038831762!3d22.70017893748118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375533f62cf11e4d%3A0x1db5b9fc37cf0c82!2sBarisal%20River%20Port%20Terminal!5e0!3m2!1sen!2sbd!4v1699192287301!5m2!1sen!2sbd"
 
     },
     {
         "id" : 2,
-        "name" : "30 Godown",
-        "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19655.190200634945!2d90.37049465666598!3d22.68401279996476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375534655b8a814b%3A0x7210f6bd48ad6b9e!2s30%20Godown!5e0!3m2!1sen!2sbd!4v1699192103291!5m2!1sen!2sbd"
-    },
-    {
-        "id" : 3,
         "name" : "Kuakata",
+        "bgURL" : "https://i.ibb.co/L0mqD2r/Sreemongol.png",
         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118515.44354834175!2d90.08566103672784!3d21.834086742613223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30aa7d1b38a082bd%3A0xce33209b2416f816!2sKuakata!5e0!3m2!1sen!2sbd!4v1699192453320!5m2!1sen!2sbd"
     },
     {
-        "id" : 4,
+        "id" : 3,
         "name" : "Payra Sea Port",
+        "bgURL" : "https://i.ibb.co/Vt05xy3/sundorbon.png",
         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3699.5650950612467!2d90.27557007443345!3d21.989648579911183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30aa8ce64b96cac7%3A0xe8a6b6085b22caa!2sPayra%20Sea%20Port!5e0!3m2!1sen!2sbd!4v1699192500438!5m2!1sen!2sbd"
     }
 ]

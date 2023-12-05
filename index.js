@@ -3,6 +3,7 @@ const cors = require('cors');
 const app = express();
 const port = 3000;
 const places = require('./places.json');
+const hotels = require('./hotels.json');
 
 app.use(cors());
 
@@ -21,6 +22,9 @@ app.get('/data/:id', (req, res) => {
     res.send(place)
 })
 
+app.get('/hotels', (req, res) => {
+  res.send(hotels)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

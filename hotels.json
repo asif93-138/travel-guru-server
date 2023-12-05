@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Light bright airy stylish & safe",
+        "image": "../public/Rectangle 26.png",
+        "price": [34, 167]
+    },
+    {
+        "id": 2,
+        "name": "Apartment in Lost Panorama",
+        "image": "../public/Rectangle 27.png",
+        "price": [52, 167]
+    },
+    {
+        "id": 3,
+        "name": "AR Lounge & Pool",
+        "image": "../public/Rectangle 28.png",
+        "price": [44, 167]
+    }
+]
